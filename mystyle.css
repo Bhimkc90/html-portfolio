@@ -1,0 +1,57 @@
+/* mystyle.css */
+
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Styles */
+#header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+#header-img {
+  width: 100px; /* Your logo's width */
+  height: auto;
+}
+
+#nav-bar {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #fff;
+  margin: 0 10px;
+}
+
+/* Content Styles */
+.header2 {
+  color: #333;
+  font-size: 24px;
+}
+
+.header3 {
+  color: #333;
+  font-size: 20px;
+}
+
+/* Footer Styles */
+#footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #fff;
+  margin: 0 10px;
+}
